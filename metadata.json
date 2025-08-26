@@ -1,0 +1,10 @@
+{
+  "name": "Demo NFT #1",
+  "description": "NFT de démonstration pour la démo Connect → Mint → Verify → Transfer.",
+  "image": "ipfs://bafybeigdyrplaceholderhash/demo.png",
+  "attributes": [
+    { "trait_type": "Rareté", "value": "Common" },
+    { "trait_type": "Série", "value": "Alpha" },
+    { "display_type": "number", "trait_type": "Édition", "value": 1 }
+  ]
+}
