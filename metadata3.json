@@ -1,0 +1,8 @@
+{
+  "name": "PERSO SL #4",
+  "description": "NFT de démonstration pour la démo Connect → Mint → Verify → Transfer.",
+  "image": "ipfs://QmYZQtjpkrMKf1NnusoPvDbKS3W4cHTUpZVtC82kjT23dh/NFT.png",
+  "attributes": [
+    { "trait_type": "background", "value": "colortest" }
+  ]
+}
